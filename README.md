@@ -8,7 +8,7 @@
 
 1. Either clone the repository or download the zip file. 
 2. Open it in your IDE & run command, npm install
-   after going to the righ directory. 
+   after navigating to the right directory. 
 
 
 # Getting Started with Create React App

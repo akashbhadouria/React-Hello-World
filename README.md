@@ -4,6 +4,12 @@
 
 ![image](https://user-images.githubusercontent.com/25353461/177509219-2a3b57c4-cea9-4a9d-9b15-89b9e559d673.png)
 
+# How to start using the App? 
+
+1. Either clone the repository or download the zip file. 
+2. Open it in your IDE & run command, npm install
+   after going to the righ directory. 
+
 
 # Getting Started with Create React App
 
